@@ -9,7 +9,7 @@ Simple Python script for downgrading audio and video quality of .mp4 files.
 
 # Why?
 
-I often see **music clips converted to poor quality**, and since I have a **very broken humor** and **it makes me laugh** - I made this simple script to **create such things**.
+i dunno
 
   
 
